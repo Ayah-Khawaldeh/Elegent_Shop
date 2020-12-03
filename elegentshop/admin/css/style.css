@@ -1,0 +1,9 @@
+.nav li:hover{
+    background: linear-gradient(60deg, #E7AB3C, #E7AB3C);
+    box-shadow: 0 4px 20px 0px rgba(0, 0, 0, 0.14), 0 7px 10px -5px rgba(156, 39, 176, 0.4);
+    margin: 0 15px;
+    border-radius: 3px;
+    color: #fff;
+    font-weight: bold;
+}
+
